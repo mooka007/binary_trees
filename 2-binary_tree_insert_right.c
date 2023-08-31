@@ -6,8 +6,7 @@
  * of a given parent node in a binary tree.
  * Author - MoOka
  * @parent: Pointer to the node to insert the right-child in.
- * @value: Value to store in the new node.
- * 
+ * @value: Value to store in the new node. 
  * Return: Pointer to the newly created node if successful.
  * NULL on failure & NULL if the parent is NULL.
  **/
